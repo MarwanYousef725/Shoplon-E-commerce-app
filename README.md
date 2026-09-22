@@ -67,9 +67,7 @@ Firebase is configured for Android (`google-services.json`). An iOS runner exist
 - Cookie preferences screen
 - Light / dark appearance toggle persisted with `SharedPreferences`
 - Wallet screen with a static balance display and history UI backed by cart product data
-
-> Several profile rows (Orders, Returns, Addresses, Payment, Language, Location) are present in the UI but do not open dedicated flows yet. Discover search is visual; it does not filter products. Bookmark currently lists catalog products rather than a per-user wishlist collection. Payment cards are UI mockups, not a payment gateway.
-
+  
 ---
 
 ## Application Preview
@@ -140,24 +138,11 @@ Screenshots extracted from the app running on Android.
 
 A walkthrough of splash, authentication, shopping, cart, and checkout can be placed here.
 
-<!-- Add application demo video here -->
-
-GitHub renders committed video and GIF files. After you record a demo:
-
-1. Save it as `docs/demo.mp4` or `docs/demo.gif`.
-2. Uncomment one of the snippets below.
-
-```markdown
-![Shoplon demo](docs/demo.gif)
-```
-
-```html
-<video src="docs/demo.mp4" controls width="360"></video>
-```
-
-You can also upload the recording to a GitHub Release and paste the asset URL in this section.
-
----
+<p align="center">
+  <a href="https://youtube.com/shorts/qodYNR7dzDM">
+    <img src="https://github.com/MarwanYousef725/Shoplon-E-commerce-app/blob/main/assets/screenshots/Screenshot_20260922-205822_Shoplon.png?raw=true" width="220" alt="Shoplon splash — tap to watch demo">
+  </a>
+</p>
 
 ## Tech Stack
 
@@ -356,6 +341,6 @@ A license has not been specified for this repository.
 
 Flutter developer — Shoplon E-commerce App
 
-- GitHub: _add profile URL_
-- LinkedIn: _add profile URL_
-- Portfolio: _add site URL_
+- GitHub: https://github.com/MarwanYousef725
+- LinkedIn: https://www.linkedin.com/in/marwanyouseff/
+- Portfolio: https://marwanyousef725.github.io/Marwan-Yousef/
