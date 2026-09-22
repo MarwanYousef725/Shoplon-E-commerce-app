@@ -3,9 +3,9 @@
 > A Flutter shopping app that covers catalog browsing, product details, cart management, checkout UI, and Firebase-backed authentication.
 
 <p align="center">
-  <img src="docs/screenshots/01_splash.png" width="220" alt="Shoplon splash screen" />
-  <img src="docs/screenshots/08_shop.png" width="220" alt="Shop home" />
-  <img src="docs/screenshots/10_product_details.png" width="220" alt="Product details" />
+  <img src="https://github.com/MarwanYousef725/Shoplon-E-commerce-app/blob/main/assets/screenshots/Screenshot_20260922-205822_Shoplon.png?raw=true" width="220" alt="Shoplon splash screen" />
+  <img src="https://github.com/MarwanYousef725/Shoplon-E-commerce-app/blob/main/assets/screenshots/Screenshot_20260922-210015_Shoplon.png?raw=true" width="220" alt="Shop home" />
+  <img src="https://github.com/MarwanYousef725/Shoplon-E-commerce-app/blob/main/assets/screenshots/Screenshot_20260922-210026_Shoplon.png?raw=true" width="220" alt="Product details" />
 </p>
 
 <p align="center">
@@ -79,60 +79,59 @@ Screenshots extracted from the app running on Android.
 ### Onboarding
 
 <p align="center">
-  <img src="docs/screenshots/01_splash.png" width="200" alt="Splash" />
-  <img src="docs/screenshots/02_onboarding_browse.png" width="200" alt="Onboarding browse" />
-  <img src="docs/screenshots/03_onboarding_cart.png" width="200" alt="Onboarding cart" />
-  <img src="docs/screenshots/04_onboarding_tracking.png" width="200" alt="Onboarding tracking" />
+  <img src="https://github.com/MarwanYousef725/Shoplon-E-commerce-app/blob/main/assets/screenshots/Screenshot_20260922-205822_Shoplon.png?raw=true" width="200" alt="Splash" />
+  <img src="https://github.com/MarwanYousef725/Shoplon-E-commerce-app/blob/main/assets/screenshots/Screenshot_20260922-205826_Shoplon.png?raw=true" width="200" alt="Onboarding browse" />
+  <img src="https://github.com/MarwanYousef725/Shoplon-E-commerce-app/blob/main/assets/screenshots/Screenshot_20260922-205828_Shoplon.png?raw=true" width="200" alt="Onboarding cart" />
+  <img src="https://github.com/MarwanYousef725/Shoplon-E-commerce-app/blob/main/assets/screenshots/Screenshot_20260922-205832_Shoplon.png?raw=true" width="200" alt="Onboarding tracking" />
 </p>
 
 ### Authentication
 
 <p align="center">
-  <img src="docs/screenshots/05_login.png" width="230" alt="Login" />
-  <img src="docs/screenshots/06_signup.png" width="230" alt="Sign up" />
-  <img src="docs/screenshots/07_login_dark.png" width="230" alt="Login dark theme" />
+  <img src="https://github.com/MarwanYousef725/Shoplon-E-commerce-app/blob/main/assets/screenshots/Screenshot_20260922-205839_Shoplon.png?raw=true" width="230" alt="Login" />
+  <img src="https://github.com/MarwanYousef725/Shoplon-E-commerce-app/blob/main/assets/screenshots/Screenshot_20260922-205845_Shoplon.png?raw=true" width="230" alt="Sign up" />
+  <img src="https://github.com/MarwanYousef725/Shoplon-E-commerce-app/blob/main/assets/screenshots/Screenshot_20260922-210157_Shoplon.png?raw=true" width="230" alt="Login dark theme" />
 </p>
 
 ### Home & discovery
 
 <p align="center">
-  <img src="docs/screenshots/08_shop.png" width="230" alt="Shop" />
-  <img src="docs/screenshots/11_discover.png" width="230" alt="Discover" />
-  <img src="docs/screenshots/12_bookmark.png" width="230" alt="Bookmark" />
+  <img src="https://github.com/MarwanYousef725/Shoplon-E-commerce-app/blob/main/assets/screenshots/Screenshot_20260922-210015_Shoplon.png?raw=true" width="230" alt="Shop" />
+  <img src="https://github.com/MarwanYousef725/Shoplon-E-commerce-app/blob/main/assets/screenshots/Screenshot_20260922-210041_Shoplon.png?raw=true" width="230" alt="Discover" />
+  <img src="https://github.com/MarwanYousef725/Shoplon-E-commerce-app/blob/main/assets/screenshots/Screenshot_20260922-210048_Shoplon.png?raw=true" width="230" alt="Bookmark" />
 </p>
 
 ### Product experience
 
 <p align="center">
-  <img src="docs/screenshots/10_product_details.png" width="260" alt="Product details" />
+  <img src="https://github.com/MarwanYousef725/Shoplon-E-commerce-app/blob/main/assets/screenshots/Screenshot_20260922-210026_Shoplon.png?raw=true" width="260" alt="Product details" />
 </p>
 
 ### Cart & checkout
 
 <p align="center">
-  <img src="docs/screenshots/13_cart.png" width="200" alt="Cart" />
-  <img src="docs/screenshots/14_payment.png" width="200" alt="Payment method" />
-  <img src="docs/screenshots/15_order.png" width="200" alt="Order" />
-  <img src="docs/screenshots/16_order_confirmation.png" width="200" alt="Order confirmation" />
+  <img src="https://github.com/MarwanYousef725/Shoplon-E-commerce-app/blob/main/assets/screenshots/Screenshot_20260922-210057_Shoplon.png?raw=true" width="200" alt="Cart" />
+  <img src="https://github.com/MarwanYousef725/Shoplon-E-commerce-app/blob/main/assets/screenshots/Screenshot_20260922-210103_Shoplon.png?raw=true" width="200" alt="Payment method" />
+  <img src="https://github.com/MarwanYousef725/Shoplon-E-commerce-app/blob/main/assets/screenshots/Screenshot_20260922-210105_Shoplon.png?raw=true" width="200" alt="Order" />
+  <img src="https://github.com/MarwanYousef725/Shoplon-E-commerce-app/blob/main/assets/screenshots/Screenshot_20260922-210108_Shoplon.png?raw=true" width="200" alt="Order confirmation" />
 </p>
 
 ### Profile
 
 <p align="center">
-  <img src="docs/screenshots/17_profile.png" width="200" alt="Profile" />
-  <img src="docs/screenshots/18_profile_settings.png" width="200" alt="Profile settings" />
-  <img src="docs/screenshots/19_wallet.png" width="200" alt="Wallet" />
-  <img src="docs/screenshots/20_preferences.png" width="200" alt="Cookie preferences" />
+  <img src="https://github.com/MarwanYousef725/Shoplon-E-commerce-app/blob/main/assets/screenshots/Screenshot_20260922-210115_Shoplon.png?raw=true" width="200" alt="Profile" />
+  <img src="https://github.com/MarwanYousef725/Shoplon-E-commerce-app/blob/main/assets/screenshots/Screenshot_20260922-210120_Shoplon.png?raw=true" width="200" alt="Wallet" />
+  <img src="https://github.com/MarwanYousef725/Shoplon-E-commerce-app/blob/main/assets/screenshots/Screenshot_20260922-210126_Shoplon.png?raw=true" width="200" alt="Cookie preferences" />
 </p>
 
 ### Dark theme
 
 <p align="center">
-  <img src="docs/screenshots/09_shop_dark.png" width="180" alt="Shop dark" />
-  <img src="docs/screenshots/21_discover_dark.png" width="180" alt="Discover dark" />
-  <img src="docs/screenshots/22_bookmark_dark.png" width="180" alt="Bookmark dark" />
-  <img src="docs/screenshots/23_cart_empty_dark.png" width="180" alt="Empty cart dark" />
-  <img src="docs/screenshots/24_profile_dark.png" width="180" alt="Profile dark" />
+  <img src="https://github.com/MarwanYousef725/Shoplon-E-commerce-app/blob/main/assets/screenshots/Screenshot_20260922-210140_Shoplon.png?raw=true" width="180" alt="Shop dark" />
+  <img src="https://github.com/MarwanYousef725/Shoplon-E-commerce-app/blob/main/assets/screenshots/Screenshot_20260922-210145_Shoplon.png?raw=true" width="180" alt="Discover dark" />
+  <img src="https://github.com/MarwanYousef725/Shoplon-E-commerce-app/blob/main/assets/screenshots/Screenshot_20260922-210147_Shoplon.png?raw=true" width="180" alt="Bookmark dark" />
+  <img src="https://github.com/MarwanYousef725/Shoplon-E-commerce-app/blob/main/assets/screenshots/Screenshot_20260922-210148_Shoplon.png?raw=true" width="180" alt="Empty cart dark" />
+  <img src="https://github.com/MarwanYousef725/Shoplon-E-commerce-app/blob/main/assets/screenshots/Screenshot_20260922-210150_Shoplon.png?raw=true" width="180" alt="Profile dark" />
 </p>
 
 ---
